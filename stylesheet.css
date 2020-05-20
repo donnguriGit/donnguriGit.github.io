@@ -13,7 +13,7 @@ header{
 }
 
 .main{
-    height: 800px;
+    height: 1000px;
     padding:0px 20px;
 }
 
@@ -37,8 +37,4 @@ footer{
     background-color:gray;
     border-top:double 2px black;
     margin:0px;
-}
-
-.space{
-    height:100px;
 }
